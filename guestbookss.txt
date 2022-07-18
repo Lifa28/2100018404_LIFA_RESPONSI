@@ -1,0 +1,4 @@
+15000/kg|2|20000/kg|3|50000/kg|2|LIFA|bekasi|190000
+15000/kg|3|20000/kg|3|50000/kg|2|LIFA|bekasi|205000
+15000/kg|2|20000/kg|4|50000/kg|1|aliya|cirebon|160000
+15000/kg|2|20000/kg|0|50000/kg|0|isi nama|isi alamat|30000
