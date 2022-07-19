@@ -5,7 +5,7 @@ echo "<head><title>Pesanan</title></head>";
 $fp =fopen("guestbookss.txt","r");
 echo "<center>";
 echo "<h1>Table Pesanan</h1>";
-echo "<a href='Pesan.php'><b>:: MAU Laundry Lagi ? ::</b></a>";
+echo "<a href='index.html'><b>:: MAU Laundry Lagi ? ::</b></a>";
 echo "<hr>";
 echo "<table border='1' cellspacing='0' cellpadding='2'";
 
