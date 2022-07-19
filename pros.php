@@ -32,7 +32,7 @@ fclose($fp);
 echo "<br><br>";
 echo "<font color='lightblue' size='20'><center>  Terima kasih atas Pesanan anda 😀 . <br> ⬇  YUK Cek pesanan Kamu dibawah ini ⬇ . <br><br></font>";
 echo " <center> <a href='look.php' > <font color='white' size='6' >LIHAT PESANAN </font></a><br><br>";
-echo " <center> <a href='Pesan.php'> <font color='white' size='3'> MAU LAUNDRY LAGI ? </font></a><br>";
+echo " <center> <a href='index.html'> <font color='white' size='3'> MAU LAUNDRY LAGI ? </font></a><br>";
 echo "</tabel>";
 
 ?>
